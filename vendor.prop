@@ -139,3 +139,6 @@ persist.timed.enable=true
 ro.iorapd.enable=true
 iorapd.perfetto.enable=true
 iorapd.readahead.enable=true
+
+# Watchdog
+ro.hw_timeout_multiplier=3
